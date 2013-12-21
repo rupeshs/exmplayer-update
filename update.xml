@@ -3,17 +3,13 @@
     <Version>
         <OperatingSystem>Windows</OperatingSystem>
         <StableVersion>320</StableVersion>
-		<ReleaseNotes>Fixed blank cover issue,
-		              Fixed fullscreen time issue,
-		              updated MPlayer Redxii-SVN-r36526-4.6.3(Windows)
+		<ReleaseNotes>Fixed blank cover issue,Fixed fullscreen time issue,updated MPlayer Redxii-SVN-r36526-4.6.3(Windows)
 		 </ReleaseNotes>
     </Version>
     <Version>
         <OperatingSystem>Linux</OperatingSystem>
         <StableVersion>320</StableVersion>
-		<ReleaseNotes>Fixed blank cover issue,
-		              Fixed fullscreen time issue,
-		              updated MPlayer Redxii-SVN-r36526-4.6.3(Windows)
+		<ReleaseNotes>Fixed blank cover issue,Fixed fullscreen time issue,updated MPlayer Redxii-SVN-r36526-4.6.3(Windows)
 		 </ReleaseNotes>
     </Version>
     <Version>
