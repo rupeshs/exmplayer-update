@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exmplayer>
+    <Version>
+        <OperatingSystem>Windows</OperatingSystem>
+        <StableVersion>320</StableVersion>
+    </Version>
+    <Version>
+        <OperatingSystem>Linux</OperatingSystem>
+        <StableVersion>320</StableVersion>
+    </Version>
+    <Version>
+        <OperatingSystem>Mac</OperatingSystem>
+        <StableVersion>0</StableVersion>
+    </Version>
+ </exmplayer>
