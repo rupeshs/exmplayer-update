@@ -2,7 +2,7 @@
 <exmplayer>
     <Version>
         <OperatingSystem>Windows</OperatingSystem>
-        <StableVersion>3.2.0</StableVersion>
+        <StableVersion>3.9.0</StableVersion>
 		<ReleaseNotes>Fixed blank cover issue,Fixed fullscreen time issue,updated MPlayer Redxii-SVN-r36526-4.6.3(Windows)</ReleaseNotes>
     </Version>
     <Version>
