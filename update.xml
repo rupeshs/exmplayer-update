@@ -2,8 +2,8 @@
 <exmplayer>
     <Version>
         <OperatingSystem>Windows</OperatingSystem>
-        <StableVersion>3.8.0</StableVersion>
-		<ReleaseNotes>Added support for Facebook sharing,Added subtitle search,Added support for muliple subtitle languages,Added update checking,mini mode</ReleaseNotes>
+        <StableVersion>4.0.0</StableVersion>
+        <ReleaseNotes>Added Video downloader,Added video software equalizer, Videodl powered by youtube-dl,Some performance improvements</ReleaseNotes>
     </Version>
     <Version>
         <OperatingSystem>Linux</OperatingSystem>
